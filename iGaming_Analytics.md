@@ -501,30 +501,6 @@ This project delves into iGaming analytics using SQL and Power BI, focusing on p
 -   Completed Transactions: "Bonus Credit" and "Withdrawal" transactions contribute significantly to completed financial flows.
 -   Pending and Reversed States: A substantial portion of transactions is in pending or reversed states, suggesting further investigation is needed for process optimization.
 
-## Phase 3: Power BI Dashboards
-
-### Player Overview Dashboard
-
-**Description:** Displays player demographics and segmentation.
-
-**Screenshot:**
-
-### Game Performance Dashboard
-
-**Description:** Visualizes game popularity and revenue trends.
-
-**Screenshot:**
-
-### Engagement Trends Dashboard
-
-**Description:** Shows session durations and platform usage over time.
-
-**Screenshot:**
-
-## Key Insights and Recommendations
-
--   Placeholder for insights and actionable recommendations.
-
 ## Conclusion
 
 The iGaming Analytics: Player Behavior, Revenue, and Trends project provides valuable insights into player behavior, game performance, and revenue generation, all of which are crucial for data-driven decision-making in the iGaming industry. The combination of SQL-based analytics and Power BI visualizations presents a comprehensive, actionable view of key performance indicators that can drive strategic decisions for iGaming platforms.
